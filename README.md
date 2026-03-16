@@ -1,4 +1,4 @@
-# Hydrogen Atom Perturbation Simulator V3 - SC CAT Edition ⚛️🐈‍⬛
+# Hydrogen Atom Perturbation Simulator - SC CAT Edition ⚛️🐈‍⬛
 
 A comprehensive, interactive Python GUI application built with PyQt5 and Matplotlib to visualize and calculate the energy level splittings of the Hydrogen atom under various quantum mechanical perturbations. 
 
@@ -49,6 +49,13 @@ The required libraries are:
 Run the main script from your terminal:
 ```bash 
 python H_perturbation.py
+```
 
 Once the application opens:
-dasd
+1. Select the target Principal Quantum Number ($n$) from the left panel.
+2. Toggle the specific perturbation terms you want to observe.
+3. Adjust the external Magnetic ($B_z$) and Electric ($E_z$) fields using the sliders/spinboxes.
+4. Cilck **Analyze Transition Spectrum** to see allowed photon emmisions.
+5. Click **Export Data and Plot** to save results.
+
+## May the Force be with You!
