@@ -35,12 +35,12 @@ The required libraries are:
    git clone [https://github.com/yourusername/hydrogen-perturbation-simulator.git](https://github.com/yourusername/hydrogen-perturbation-simulator.git)
    cd hydrogen-perturbation-simulator
 
-2. ** Create a virtual enviroment (Optional but recommended) **
+2. **Create a virtual enviroment (Optional but recommended)**
    ```bash
    python -m venv venv
    source venv/bin/activate #on Linux
    venv\Scripts\activate #on Windows
-3. ** Install the required dependencies **
+3. **Install the required dependencies**
    ```bash
    pip install numpy matplotlib PyQt5
 
