@@ -44,7 +44,7 @@ The required libraries are:
    ```bash
    pip install numpy matplotlib PyQt5
 
-💻 **Usage**
+💻 ## Usage
 
 Run the main script from your terminal:
 ```bash 
@@ -58,4 +58,4 @@ Once the application opens:
 4. Cilck **Analyze Transition Spectrum** to see allowed photon emmisions.
 5. Click **Export Data and Plot** to save results.
 
-## May the Force be with You!
+### May the Force be with You!
