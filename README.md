@@ -32,7 +32,7 @@ The required libraries are:
 
 1. **Clone the repository:**
    ```bash
-   git clone git@github.com:Ahmetaliakkurt/Modeling_H_Atom.git
+   git clone [git@github.com:Ahmetaliakkurt/Modeling_H_Atom.git](https://github.com/Ahmetaliakkurt/Modeling_H_Atom.git)
    cd Modeling_H_Atom
 
 2. **Create a virtual enviroment (Optional but recommended)**
