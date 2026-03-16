@@ -1,4 +1,4 @@
-# Hydrogen Atom Perturbation Simulator - SC CAT Edition ⚛️🐈‍⬛
+# Hydrogen Atom Perturbation Simulator
 
 A comprehensive, interactive Python GUI application built with PyQt5 and Matplotlib to visualize and calculate the energy level splittings of the Hydrogen atom under various quantum mechanical perturbations. 
 
