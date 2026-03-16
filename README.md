@@ -5,7 +5,7 @@ A comprehensive, interactive Python GUI application built with PyQt5 and Matplot
 This tool is designed for physics students, researchers, and educators to intuitively explore how external fields and relativistic corrections affect atomic energy levels.
 
 ![Simulator Screenshot](screenshot.png) 
-*(Note: Add a screenshot of the app running here and name it `screenshot.png` in your repo)*
+
 
 ## ✨ Features
 
@@ -49,3 +49,6 @@ The required libraries are:
 Run the main script from your terminal:
 ```bash 
 python H_perturbation.py
+
+Once the application opens:
+dasd
