@@ -44,7 +44,8 @@ The required libraries are:
    ```bash
    pip install numpy matplotlib PyQt5
 
-**Usage**
+💻 **Usage**
+
 Run the main script from your terminal:
 ```bash 
 python H_perturbation.py
