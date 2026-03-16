@@ -15,7 +15,7 @@ This tool is designed for physics students, researchers, and educators to intuit
   - **Lamb Shift ($H_{Lamb}$):** Quantum Electrodynamics (QED) vacuum fluctuation corrections.
   - **Zeeman Effect ($H_{Zeeman}$):** Energy splitting under an external magnetic field ($B_z$).
   - **Stark Effect ($H_{Stark}$):** Energy splitting under an external electric field ($E_z$).
-- **Real-time Plotting:** Dynamic visualization of energy shifts ($\Delta E$) in $\mu$eV as terms are sequentially applied.
+- **Real-time Plotting:** Dynamic visualization of energy shifts ($\Delta E$) in $\mu eV$ as terms are sequentially applied.
 - **Spectrum Analyzer:** Automatically calculates and lists allowed optical dipole transitions based on quantum selection rules ($\Delta l = \pm 1$, $\Delta m_j = 0, \pm 1$).
 - **Export Capabilities:** Save your calculated energy states as a `.csv` file and export the generated high-resolution plot as a `.png` for research logs or presentations.
 
