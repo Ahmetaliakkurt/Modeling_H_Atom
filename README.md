@@ -32,7 +32,7 @@ The required libraries are:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/hydrogen-perturbation-simulator.git](https://github.com/yourusername/hydrogen-perturbation-simulator.git)
+   git clone [git@github.com:Ahmetaliakkurt/Modeling_H_Atom.git](git@github.com:Ahmetaliakkurt/Modeling_H_Atom.git)
    cd hydrogen-perturbation-simulator
 
 2. **Create a virtual enviroment (Optional but recommended)**
